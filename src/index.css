@@ -94,6 +94,45 @@
   position: relative;
 }
 
+.position-absolute {
+  position: absolute;
+}
+
+.bottom-6 {
+  bottom: 6%;
+}
+
+.left-41 {
+  left: 41%;
+}
+
+.padding-right-15 {
+  padding-right: 15px;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.padding-left-80 {
+  padding-left: 80px;
+}
+
+.colorful-img {
+  width: 312px;
+  height: 348px;
+}
+
+.text-number {
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.padding-right-35 {
+  padding-right: 35px;
+}
+
 .iconbox:hover {
   box-shadow: 1px 7px 10px 0px #FF530080;
   background: #FF5300;
