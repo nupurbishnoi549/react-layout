@@ -105,7 +105,9 @@
 .left-41 {
   left: 41%;
 }
-
+.cursor-pointer{
+  cursor: pointer;
+}
 .padding-right-15 {
   padding-right: 15px;
 }
